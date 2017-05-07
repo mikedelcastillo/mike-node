@@ -1,0 +1,41 @@
+{
+  "name": "mike-node",
+  "version": "1.0.9",
+  "description": "A bunch of shortcuts I often use",
+  "license": "ISC",
+  "author": "Mike del Castillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "fs-extra": "^2.1.2",
+    "image-size": "^0.5.1",
+    "imagemin": "^5.2.2",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-pngquant": "^5.0.0",
+    "is-image": "^1.0.1",
+    "js-beautify": "^1.6.12",
+    "jstransformer-markdown-it": "^2.0.0",
+    "node-sass": "^4.5.2",
+    "path": "^0.12.7",
+    "postcss": "^5.2.16",
+    "pug": "^2.0.0-beta11",
+    "pug-php-filter": "0.0.1",
+    "sharp": "^0.17.3"
+  },
+  "keywords": [
+    "mike", "mike del castillo", "pug",
+    "sass", "css", "html", "pretty",
+    "beautify", "compress", "resize",
+    "workspace", "environment", "cheese",
+    "autoprefix", "jesus"
+  ],
+  "browserslist": [
+    "> 0%",
+    "last 10000 versions"
+  ]
+}
